@@ -56,3 +56,4 @@ Avance 26
 Avance 27
 Avance 28
 Avance 29
+Importación de assets iniciales y sprites 2D
