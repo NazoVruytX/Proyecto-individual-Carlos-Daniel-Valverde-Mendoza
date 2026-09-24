@@ -76,3 +76,4 @@ Creación del script de patrullaje para el enemigo
 Añadidos colliders y triggers para el sistema de daño
 Implementación de la interfaz de usuario (UI Canvas)
 Creación del contador de vida y recolección de puntos
+Añadidos prefabs de coleccionables en el mapa
