@@ -63,3 +63,4 @@ Diseño del nivel base usando la paleta de tiles
 Añadido el prefab del personaje principal
 Configuración del Rigidbody2D y BoxCollider2D del jugador
 Creación del script PlayerMovement para el movimiento
+Implementación del movimiento horizontal del personaje
