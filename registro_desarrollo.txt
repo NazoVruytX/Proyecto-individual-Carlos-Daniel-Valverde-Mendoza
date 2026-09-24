@@ -80,3 +80,4 @@ Añadidos prefabs de coleccionables en el mapa
 Script para la gestión de colisiones con objetos
 Actualización de la UI al interactuar con el entorno
 Añadido fondo parallax para dar profundidad a la escena
+Configuración de Cinemachine para que la cámara siga al jugador
