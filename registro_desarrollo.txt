@@ -74,3 +74,4 @@ Añadida animación de salto al Animator
 Importación de assets para enemigos básicos
 Creación del script de patrullaje para el enemigo
 Añadidos colliders y triggers para el sistema de daño
+Implementación de la interfaz de usuario (UI Canvas)
