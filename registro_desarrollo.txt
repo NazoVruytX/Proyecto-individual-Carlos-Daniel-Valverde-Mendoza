@@ -58,3 +58,4 @@ Avance 28
 Avance 29
 Importación de assets iniciales y sprites 2D
 Configuración de la escena principal SampleScene
+Creación del Tilemap para el suelo y paredes
