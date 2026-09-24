@@ -71,3 +71,4 @@ Configuración del Animator Controller del jugador
 Añadidas animaciones de Idle y Run
 Transiciones de animación configuradas por código
 Añadida animación de salto al Animator
+Importación de assets para enemigos básicos
