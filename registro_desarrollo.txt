@@ -72,3 +72,4 @@ Añadidas animaciones de Idle y Run
 Transiciones de animación configuradas por código
 Añadida animación de salto al Animator
 Importación de assets para enemigos básicos
+Creación del script de patrullaje para el enemigo
