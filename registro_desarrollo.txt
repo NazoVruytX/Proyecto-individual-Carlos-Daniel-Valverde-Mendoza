@@ -66,3 +66,4 @@ Creación del script PlayerMovement para el movimiento
 Implementación del movimiento horizontal del personaje
 Ajustes en la física y gravedad del Rigidbody2D
 Añadida la lógica de salto en el script PlayerController
+Implementación de detección de suelo (isGrounded)
