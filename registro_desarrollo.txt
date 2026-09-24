@@ -68,3 +68,4 @@ Ajustes en la física y gravedad del Rigidbody2D
 Añadida la lógica de salto en el script PlayerController
 Implementación de detección de suelo (isGrounded)
 Configuración del Animator Controller del jugador
+Añadidas animaciones de Idle y Run
